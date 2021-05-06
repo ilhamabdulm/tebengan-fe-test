@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ilhamabdulm/tebengan-fe-test/static/css/main.db38adfb.chunk.css",
+    "main.js": "/ilhamabdulm/tebengan-fe-test/static/js/main.1fa41bde.chunk.js",
+    "main.js.map": "/ilhamabdulm/tebengan-fe-test/static/js/main.1fa41bde.chunk.js.map",
+    "runtime-main.js": "/ilhamabdulm/tebengan-fe-test/static/js/runtime-main.8d625cf0.js",
+    "runtime-main.js.map": "/ilhamabdulm/tebengan-fe-test/static/js/runtime-main.8d625cf0.js.map",
+    "static/js/2.32738952.chunk.js": "/ilhamabdulm/tebengan-fe-test/static/js/2.32738952.chunk.js",
+    "static/js/2.32738952.chunk.js.map": "/ilhamabdulm/tebengan-fe-test/static/js/2.32738952.chunk.js.map",
+    "static/js/3.5a021752.chunk.js": "/ilhamabdulm/tebengan-fe-test/static/js/3.5a021752.chunk.js",
+    "static/js/3.5a021752.chunk.js.map": "/ilhamabdulm/tebengan-fe-test/static/js/3.5a021752.chunk.js.map",
+    "index.html": "/ilhamabdulm/tebengan-fe-test/index.html",
+    "static/css/main.db38adfb.chunk.css.map": "/ilhamabdulm/tebengan-fe-test/static/css/main.db38adfb.chunk.css.map",
+    "static/js/2.32738952.chunk.js.LICENSE.txt": "/ilhamabdulm/tebengan-fe-test/static/js/2.32738952.chunk.js.LICENSE.txt",
+    "static/media/profile-pic.0ba0a530.png": "/ilhamabdulm/tebengan-fe-test/static/media/profile-pic.0ba0a530.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d625cf0.js",
+    "static/js/2.32738952.chunk.js",
+    "static/css/main.db38adfb.chunk.css",
+    "static/js/main.1fa41bde.chunk.js"
+  ]
+}
